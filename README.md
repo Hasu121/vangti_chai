@@ -1,6 +1,6 @@
 # vangti_chai
 
-A new Flutter project.
+Flutter Assignment 1
 
 ## Getting Started
 
